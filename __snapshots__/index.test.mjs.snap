@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`add files 1`] = `
+"--form-data-boundary-xxxxxxxxxxxxxxxx
+Content-Disposition: form-data; name=\\"stream\\"; filename=\\"file.txt\\"
+Content-Type: text/plain
+
+Stream content
+--form-data-boundary-xxxxxxxxxxxxxxxx--
+
+"
+`;
