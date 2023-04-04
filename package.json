@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "form-data-encoder": "1.7.1",
-    "formdata-node": "4.3.2"
+    "formdata-node": "4.4.1"
   },
   "devDependencies": {
     "vitest": "^0.29.8"
